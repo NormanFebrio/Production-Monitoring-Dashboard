@@ -2,24 +2,6 @@
 
 ## Project Overview
 
-## Problem Background
-
-## Objective
-
-## Data & Key Metrics
-
-## Dashboard Breakdown
-
-## Design Decisions
-
-## Impact
-
-## Reflection & Next Steps
-
-## How to Use / Repo Structure
-
-## Project Overview
-
 This project is a **Production Target Monitoring Dashboard** built in Microsoft Excel, connected to an OLAP data source. The dashboard was built to help a production manager track how each production line is performing against its monthly target — in real time, every single day.
 
 The data used here has been fully anonymized (line names and production numbers) to protect company confidentiality.
