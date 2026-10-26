@@ -1,5 +1,7 @@
 # Production Target Monitoring Dashboard
 
+![Target Monitoring Dashboard](assets/Target_Monitoring_Dashboard.png)
+
 ## Project Overview
 
 This project is a **Production Target Monitoring Dashboard** built in Microsoft Excel, connected to an OLAP data source. The dashboard was built to help a production manager track how each production line is performing against its monthly target — in real time, every single day.
